@@ -24,3 +24,17 @@ some Results:
 <p align="center">
   <img src="./samples/1_3.jpg" width="350"/>
 </p>
+
+
+>input images:
+
+<p align="center">
+  <img src="./samples/2_1.jpg" width="350"/>
+  <img src="./samples/2_2.jpg" width="350"/>
+</p>
+
+>output image:
+
+<p align="center">
+  <img src="./samples/2_3.jpg" width="350"/>
+</p>
