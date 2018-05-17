@@ -11,3 +11,16 @@ The github repository https://github.com/machrisaa/tensorflow-vgg was used for t
 >the input images can be of any shape but must be "rgb" format.
 
 some Results:
+
+>input images:
+
+<p align="center">
+  <img src="./samples/1_1.jpg" width="350"/>
+  <img src="./samples/1_2.jpg" width="350"/>
+</p>
+
+>output image:
+
+<p align="center">
+  <img src="./samples/1_3.jpg" width="350"/>
+</p>
